@@ -5,7 +5,6 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A full-stack end-to-end deep learning system for autonomous vehicle steering prediction using NVIDIA's DAVE-2 architecture. This project features a complete web application with a React frontend, Flask API backend, and PyTorch deep learning model that learns to drive by mapping raw camera images directly to steering commands.
 
