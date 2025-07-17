@@ -1,0 +1,21 @@
+steering-angle-app/
+├── backend/
+│   ├── venv/
+│   ├── app.py
+│   ├── final_model.pth
+│   └── requirements.txt
+└── frontend/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   │   ├── Header.js
+    │   │   ├── ImageUpload.js
+    │   │   ├── SteeringWheel.js
+    │   │   ├── PredictionResult.js
+    │   │   ├── VideoProcessor.js
+    │   │   └── ModelStats.js
+    │   ├── App.js
+    │   ├── App.css
+    │   └── index.js
+    ├── package.json
+    └── package-lock.json
